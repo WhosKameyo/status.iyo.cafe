@@ -146,6 +146,8 @@ params:
     - name: Third Party
       description: Null.
       closed: true
+    - name: Uncategorized
+      untitled: true
 
   # These are your systems. Change them to
   # change the amount of components.
